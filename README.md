@@ -1,2 +1,2 @@
 # TimeSeriesAnalysis
-Time Series Analysis examples
+Time Series Forecasting examples
